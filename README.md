@@ -1,4 +1,4 @@
-# :muscle: CS290 Exercise Tracker
+# :muscle: Fitness Tracker
 
 Final project for `CS290: Web Development` at Oregon State University. It has been approved for public sharing.
 
